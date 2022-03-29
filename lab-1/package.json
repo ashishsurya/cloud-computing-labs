@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.17.2",
+    "fs": "^0.0.1-security"
+  },
+  "scripts": {
+    "start1": "nodemon task-1.js",
+    "start2": "nodemon task-2.js",
+    "start3": "nodemon task-3.js"
+
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
